@@ -5,7 +5,4 @@ Requirements :
 
 Start :
   dotnet run
-
-Credentials :
-  ksasiadek64@gmail.com / zimkes-3pegve-tiRkim
   
